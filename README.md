@@ -12,12 +12,12 @@ A personal NEPSE (Nepal Stock Exchange) market monitoring platform built with Ty
 ## Screenshots
 
 <p align="center">
-  <img src="./docs/screenshot_1.png.png" width="45%" />
-  <img src="./docs/screenshot_2.png.png" width="45%" />
+  <img src="./docs/screenshot_1.png" width="45%" />
+  <img src="./docs/screenshot_2.png" width="45%" />
 </p>
 <p align="center">
-  <img src="./docs/screenshot_3.png.png" width="45%" />
-  <img src="./docs/screenshot_4.png.png" width="45%" />
+  <img src="./docs/screenshot_3.png" width="45%" />
+  <img src="./docs/screenshot_4.png" width="45%" />
 </p>
 
 ## Architecture
