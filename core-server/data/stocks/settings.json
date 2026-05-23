@@ -1,0 +1,12 @@
+{
+  "spreadsheetId": "YOUR_GOOGLE_SPREADSHEET_ID",
+  "links": {
+    "infoUrl": "",
+    "chartUrl": "",
+    "nepseInfoUrl": ""
+  },
+  "marginStocks": [],
+  "marginColor": "#f59e0b",
+  "stockSecurityMap": {},
+  "port": 3022
+}

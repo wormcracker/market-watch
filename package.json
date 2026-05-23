@@ -1,0 +1,16 @@
+{
+  "name": "market-watch",
+  "version": "1.0.0",
+  "description": "Market Watch setup",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "concurrently \"cd core-server && npm run dev\" \"cd market-watch-ui && npm run dev\"",
+    "dev:server": "cd core-server && npm run dev",
+    "dev:web": "cd web-ui && npm run dev",
+    "build": "cd core-server && npm run build && cd ../market-watch-ui && npm run build",
+    "start": "cd core-server && npm run start && cd ../market-watch-ui && npm run start"
+  },
+  "devDependencies": {
+    "concurrently": "^9.0.0"
+  }
+}

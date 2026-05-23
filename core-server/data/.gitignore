@@ -1,0 +1,7 @@
+# Ignore runtime-generated data files
+nepse/market-snapshot.json
+watchers/alerts.json
+watchers/watches.json
+watchers/history.json
+watchers/settings.json
+stocks/service.json

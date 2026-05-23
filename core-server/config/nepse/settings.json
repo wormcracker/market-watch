@@ -1,0 +1,29 @@
+{
+  "nepse-data-setting": {
+    "interval": 30,
+    "shutdown": false,
+    "fallback_order": [
+      "memory_cache",
+      "disk_cache"
+    ],
+    "fallback_order_after_market": [
+      "memory_cache",
+      "disk_cache"
+    ],
+    "retry_count": 3,
+    "retry_delay_ms": 1000,
+    "timeout_per_req_ms": 8000,
+    "status_check": false,
+    "status_recheck_interval_min": 10,
+    "cache_ttl": 180,
+    "scheduler": [
+      {
+        "market_start": "11:00",
+        "market_end": "15:00",
+        "market_days": [0, 1, 2, 3, 4],
+        "interval": 30
+      }
+    ],
+    "scheduler_sub_slots": []
+  }
+}
