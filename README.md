@@ -1,6 +1,9 @@
 <div align="center">
   <img src="./market-watch-ui/public/favicon.svg" width="80" height="80" alt="Folio" />
   <h1>MarketWatch</h1>
+
+![LiveBadge](https://img.shields.io/badge/DEMO-ACTIVE-00c853?style=for-the-badge&logo=vercel)[LIVE](https://wormcracker.github.io/market-watch/)
+
 </div>
 
 A personal NEPSE (Nepal Stock Exchange) market monitoring platform built with TypeScript and Node.js. Tracks live prices, manages a stock portfolio backed by Google Sheets, and fires configurable alerts via a condition-based watcher engine.
