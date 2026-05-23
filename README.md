@@ -1,10 +1,24 @@
-# Market Watch
+<div align="center">
+  <img src="./market-watch-ui/public/favicon.svg" width="80" height="80" alt="Folio" />
+  <h1>MarketWatch</h1>
+</div>
 
 A personal NEPSE (Nepal Stock Exchange) market monitoring platform built with TypeScript and Node.js. Tracks live prices, manages a stock portfolio backed by Google Sheets, and fires configurable alerts via a condition-based watcher engine.
 
 > **Note:** This project was built as a personal learning vehicle to develop backend and systems-level engineering skills. The live-data fetching layer uses unofficial third-party sources that have been intentionally removed from this repository. See [Live Market Data](#live-market-data) for how to get price data into the system.
 
 ---
+
+## Screenshots
+
+<p align="center">
+  <img src="./docs/screenshot_1.png.png" width="45%" />
+  <img src="./docs/screenshot_2.png.png" width="45%" />
+</p>
+<p align="center">
+  <img src="./docs/screenshot_3.png.png" width="45%" />
+  <img src="./docs/screenshot_4.png.png" width="45%" />
+</p>
 
 ## Architecture
 
