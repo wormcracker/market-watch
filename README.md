@@ -2,7 +2,7 @@
   <img src="./market-watch-ui/public/favicon.svg" width="80" height="80" alt="Folio" />
   <h1>MarketWatch</h1>
 
-![LiveBadge](https://img.shields.io/badge/DEMO-ACTIVE-00c853?style=for-the-badge&logo=vercel)[LIVE](https://wormcracker.github.io/market-watch/)
+[LIVE DEMO](https://wormcracker.github.io/market-watch/)
 
 </div>
 
