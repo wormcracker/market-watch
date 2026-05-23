@@ -37,8 +37,6 @@ jobs:
 
       - name: Build
         env:
-          # ⚠️  Change "market-watch" to match YOUR GitHub repository name exactly.
-          # e.g. if your repo is github.com/alice/nepse-tracker → "/nepse-tracker"
           NEXT_PUBLIC_BASE_PATH: "/market-watch"
         run: npm run build
 
